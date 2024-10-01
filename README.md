@@ -47,14 +47,14 @@ Non-Functional requirements
 
 Performance requirements: 
     Automatic mode: 
-➢ bulb should switch on after the entry of human in the room within 1 minute. 
-➢ Fan should switch on as soon as the threshold is detected within 1 minute. 
+➢ bulb should switch on after the entry of human in the room  
+➢ Fan should switch on as soon as the threshold is detected  
   
  
  Manual control mode: 
-➢ The bulb should switch on within 1 minute of pressing the button on the 
+➢ The bulb should switch on by pressing the button on the 
 mobile phone. 
-➢ Fan should switch on within 1 minute of pressing the button on the mobile 
+➢ Fan should switch on by pressing the button on the mobile 
 phone. 
 Environment requirements: 
 ➢ The system should work in the temperature range 0 degree centigrade to 60 
